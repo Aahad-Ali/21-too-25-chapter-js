@@ -1,1 +1,1 @@
-# 21-too-25-chapter-js
+# vowels or simple words
